@@ -28,12 +28,12 @@ for i in range(1, 5):
 for i in range(3, 0, -1):
 	print "*" * i
 
-#print ("Pattern C")
-#for e in range (11,0,-1):
-#    print((11-e) * ' ' + e * '*')
+print ("Pattern C")
+for e in range (11,0,-1):
+    print((11-e) * ' ' + e * '*')
 
-#print ('')
-#print ("Pattern D")
-#for g in range (11,0,-1):
-#    print(g * ' ' + (11-g) * '*')
+print ('')
+print ("Pattern D")
+for g in range (11,0,-1):
+    print(g * ' ' + (11-g) * '*')
 
